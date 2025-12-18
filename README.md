@@ -8,8 +8,8 @@
 ### 🛠️ Tech Stack
 
 **Embedded Systems**
-- C/C++ | Python | Assembly
-- Microcontrollers: ARM Cortex, AVR, ESP32
+- C/C++ | Python | Rust
+- Microcontrollers: ARM Cortex, AVR, ESP32, Nordics NRF
 - RTOS | Bare-metal programming
 - Hardware debugging & protocol analysis
 
