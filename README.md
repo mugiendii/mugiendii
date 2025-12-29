@@ -9,7 +9,7 @@
 
 **Embedded Systems**
 - C/C++ | Python | Rust
-- Microcontrollers: ARM Cortex, AVR, ESP32, Nordics NRF
+- Microcontrollers: ARM Cortex, AVR, ESP32, Nordic NRF
 - RTOS | Bare-metal programming
 - Hardware debugging & protocol analysis
 
